@@ -107,8 +107,8 @@
 
 @media (max-width: 575px) {
     h1 {
-        font-size: 2em;
-        line-height: 1.4;
+	font-size: 2em;
+	line-height: 1.4;
     }
 
     h2 {
@@ -205,8 +205,8 @@
     }
 
     .navbar {
-        padding-top: 0.625rem;
-        padding-bottom: 0.625rem;
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
     }
 
     .navbar.active {
@@ -442,7 +442,7 @@
     .welcome-area,
     .homepage-5 .welcome-area {
         height: 100% !important;
-        padding-top: 90px;
+        padding-top: 120px;
     }
 
     .welcome-intro {
