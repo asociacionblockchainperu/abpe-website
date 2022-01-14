@@ -543,7 +543,7 @@ img {
 .btn.sApp-btn:before,
 .bg-overlay::after,
 .benifits-item:after {
-    background: linear-gradient(-47deg, #1b78c1 0%, #2b5271 100%);
+    background: linear-gradient(-47deg, #000000 0%, #000000 100%);
     
 }
 
@@ -1187,7 +1187,7 @@ img {
 
 .single-counter span {
     font-size: 1.85em;
-    background: linear-gradient(-47deg, #1b78c1 0%, #2b5271 100%);
+    background: linear-gradient(-47deg, #f1c019 0%, #e40b7a 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
