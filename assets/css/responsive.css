@@ -82,7 +82,7 @@
 /*SECTION HEADING*/
 @media (max-width: 991px) {
     h1 {
-        font-size: 3em;
+        font-size: 2em;
     }
 
     h2 {
@@ -426,7 +426,8 @@
 @media (max-width: 991px) {
     .welcome-area,
     .inner .welcome-area {
-        height: 700px !important;
+	/* [disabled]height: 700px !important; */
+	padding-top: 84px;
     }
 
     .homepage-3 .welcome-area .subscribe-form {
