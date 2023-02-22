@@ -968,6 +968,10 @@ img {
     list-style: circle;
 }
 
+.circle-list-area .list-use li {
+    list-style: circle;
+}
+
 @media (min-width: 992px) {
     .download-page .welcome-intro > h1 {
         font-size: 3.8em;
